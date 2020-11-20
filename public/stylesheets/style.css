@@ -1,0 +1,150 @@
+/* Style Sheet for Responsive Portfolio Homework  */
+
+.portfolioimage {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 2px solid black;
+    height: 170px;
+    width: 275px;  
+}
+
+.projectLink {
+    margin: auto;
+    text-align: center;
+}
+
+#projectsCard {
+    height: 1000px;
+}
+
+.applink {
+    margin-top: 30px;
+}
+
+
+.card-text {
+    color: black;
+    /* margin-left: 0px; */
+}
+
+.footertext {
+    margin-top: 10px;
+    text-align: center;
+    color: grey;
+    font-size: medium;
+    font-family: 'Barlow', sans-serif;
+}
+
+.contactcard {
+    color: black;
+    font: bolder;
+    margin-top: 10px;
+}
+
+.card-header {
+    background-color: whitesmoke;
+    font-style: italic;
+}
+
+
+.body {
+    /* height: fit-content; */
+    /* width: 100%; */
+    font-family: 'Barlow', sans-serif;
+    color: black;
+    border: 2px solid black;
+    margin: 10px;
+}
+
+#aboutmetxt {
+    font-size: large;
+    margin-top: 10px;
+}
+
+#contactfooter {
+    position:absolute;
+    /* bottom:0;ma */
+    margin-top: 14%;
+    width:100%;
+}
+#footerbox {
+
+    height: 75px;
+    margin-top: auto;
+}
+
+
+#navbar {
+    font-family: 'Barlow', sans-serif;
+}
+
+#mainimage {
+    height: 90%;
+    width: 95%;
+    float: left;
+    margin: 15px;
+    border: 2px solid black;
+}
+
+.portfoliotxt {
+    font-size: larger;
+    margin-top: 10px;
+    margin-left: 30px;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+#sidebar {
+    font-family: 'Barlow', sans-serif;
+
+}
+
+
+#mainbody {
+    background-image: url(https://images.unsplash.com/photo-1455612693675-112974d4880b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjF9&auto=format&fit=crop&w=1600&h=500&q=60);
+}
+
+.imgcard{
+    border: 2px solid black;
+    margin: 10px;
+}
+.socialImg {
+    margin-top: 30px;
+    width: 100%;
+    
+}
+
+.social {
+    width: 100%;
+    height: 140px;
+    /* margin: 5%; */
+    margin-left: 0%;
+    border: 2px solid black;
+}
+
+.linkbtn {
+    width: 110%;
+    height: 115px;
+    margin-top: 10px;
+}
+
+.lists {
+    border: 2px solid lightgrey;
+    background-color: whitesmoke;
+}
+
+#weatherbox {
+    height: 319px;
+    text-align: center;
+}
+
+#weatherImg {
+    height: 150px;
+    width: 250px;
+}
+
+#resumebtn {
+    height: 50px;
+    width: 310px;
+    margin-top: 20px;
+}
