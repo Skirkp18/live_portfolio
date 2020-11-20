@@ -31,7 +31,7 @@ app.set("view engine", "handlebars");
 
 // TEST ROUTE!
 app.get("/", function(req, res) {
-    res.render("test")
+    res.render("aboutme")
   });
 
 // require("./routes/html-routes.js")(app);
