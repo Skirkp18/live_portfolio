@@ -1,0 +1,25 @@
+{
+  "name": "live_portfolio",
+  "version": "1.0.0",
+  "description": "This is my live portfolio app. It contains info about me and links to my social media.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skirkp18/live_portfolio.git"
+  },
+  "author": "Sean Kirkpatrick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Skirkp18/live_portfolio/issues"
+  },
+  "homepage": "https://github.com/Skirkp18/live_portfolio#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0"
+  }
+}
