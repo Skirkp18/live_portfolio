@@ -15,7 +15,10 @@
 }
 
 #projectsCard {
-    height: 100%;
+    /* height: 100%; */
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 .applink {
@@ -153,5 +156,10 @@
 
 #contactinfo {
     text-align: center;
+}
+
+#projectsTitle {
+    margin-left: -15px;
+    margin-right: -15px;
 }
 
