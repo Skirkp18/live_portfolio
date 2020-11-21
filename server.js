@@ -29,12 +29,7 @@ app.set("view engine", "handlebars");
 
 //  Requiring routes
 
-// TEST ROUTE!
-app.get("/", function(req, res) {
-    res.render("aboutme")
-  });
-
-// require("./routes/html-routes.js")(app);
+require("./routes/html-routes.js")(app);
 // require("./routes/api-routes.js")(app);
 
 // Start listening
