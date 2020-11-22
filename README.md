@@ -2,8 +2,12 @@
 
 ![GitHub](https://img.shields.io/github/downloads/Skirkp18/live_portfolio/total) ![GitHub](https://img.shields.io/github/languages/top/Skirkp18/live_portfolio) ![GitHub](https://img.shields.io/badge/license-MIT-green?style=flat) 
 
+
+<img src="./public/assets/main-portfolio.png">
+
 ## Description
 This is my personal portfolio site. It is hosted using Heroku and is a full stack web application.
+It also contains a projects page that displays some of my best work. This includes front and back end projects as well as class asignments.
 ## Table of Contents 
   - [Installation](#installation)
   - [Usage](#usage)
