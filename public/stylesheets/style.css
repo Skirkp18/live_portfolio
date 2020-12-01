@@ -165,3 +165,7 @@
     margin-right: -15px;
 }
 
+#centeredTitle {
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+}
