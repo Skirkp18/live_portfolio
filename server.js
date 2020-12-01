@@ -1,6 +1,7 @@
 // Dependencies
 const express = require("express");
 const chalk = require("chalk");
+const compression = require('compression')
 
 // Setting up port and requiring our models
 const PORT = process.env.PORT || 8080;
@@ -9,6 +10,7 @@ const PORT = process.env.PORT || 8080;
 
 // Setting up express and middleware
 const app = express();
+app.use(compression())
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(express.static("public"));

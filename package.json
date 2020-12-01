@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Skirkp18/live_portfolio#readme",
   "dependencies": {
     "chalk": "^4.1.0",
+    "compression": "^1.7.4",
     "express": "^4.17.1",
     "express-handlebars": "^5.2.0",
     "watch": "^1.0.2"
